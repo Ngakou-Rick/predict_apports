@@ -11,3 +11,6 @@ seaborn
 reportlab
 plotly
 joblib
+fastapi
+uvicorn
+python-multipart
